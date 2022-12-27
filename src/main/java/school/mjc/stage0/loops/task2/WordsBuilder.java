@@ -8,7 +8,7 @@ public class WordsBuilder {
             word = word + chars[a];
         }
 
-        System.out.println(word);
+        System.out.print(word);
     }
 
 }
